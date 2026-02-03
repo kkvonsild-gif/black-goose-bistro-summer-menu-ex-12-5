@@ -33,3 +33,9 @@ dt strong {
 #info p {
     font-style: italic;
 }
+
+.price {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: gray
+}
