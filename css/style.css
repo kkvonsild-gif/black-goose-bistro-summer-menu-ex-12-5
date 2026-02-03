@@ -20,5 +20,8 @@ dt {
 
 strong {
     font-style: italic;
-    color: tomato;
+}
+
+dt strong {
+    color:tomato;
 }
